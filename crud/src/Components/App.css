@@ -1,4 +1,4 @@
-
+/* 
 input{
 
     padding: 10px;
@@ -38,4 +38,24 @@ cursor: pointer;
 background-color: aliceblue;
 color: black;
 
+} */
+
+div{
+    width:600px;
+    margin: 0% auto;
+}
+input{
+    width: 60%;
+    padding: 15px 30px;
+}
+
+button{
+padding:  10px 20px;
+
+}
+table th, table td{ 
+
+    border: 1px solid;
+    padding: 20px 40px;
+    background-color: rgb(217, 156, 234);
 }
